@@ -3,5 +3,6 @@
 ##高清视频、电子书、软件、网站
 
 
-####最新网址1 https://d1o7l8y91za2er.cloudfront.net
+####最新网址1 https://d1o7l8y91za2er.cloudfront.net (失效)
 ####最新网址2 https://d3pb54njq1e7cz.cloudfront.net
+####最新网址3 https://d2rssnkr0aalfv.cloudfront.net
