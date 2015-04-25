@@ -4,4 +4,4 @@
 
 ####当前网址2 https://d3pb54njq1e7cz.cloudfront.net
 ####当前网址3 https://d2rssnkr0aalfv.cloudfront.net
-####当前网址4 https://d2psbywjmex6a7.cloudfront.net
+####当前网址5 https://d3tbp1m3wpbm1g.cloudfront.net
