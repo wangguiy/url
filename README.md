@@ -3,4 +3,4 @@
 ##高清视频、电子书、软件、网站
 
 ####当前网址5 https://d3tbp1m3wpbm1g.cloudfront.net
-####当前网址7 https://d339w66zjf0hq0.cloudfront.net
+####当前网址7 https://d24f7j9dy26nto.cloudfront.net
