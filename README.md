@@ -15,10 +15,10 @@
   </tr>
   <tr>
     <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=BYWXY.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/BYWXY.jpg" /></a></td>
-    <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=10" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/DKC.jpg" /></a></td>
+    <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=LRWS6B.mp4&count=10" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/LRWS6B.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=FZYX.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/FZYX.jpg" /></a></td>
-    <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=LRWS6B.mp4&count=10" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/LRWS6B.jpg" /></a></td>
+    <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=10" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/DKC.jpg" /></a></td>
   </tr>
 </table>
