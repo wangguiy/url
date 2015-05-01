@@ -1,5 +1,4 @@
-# 网门
-##网聚全球焦点 精华资源入口
+#<font color=red>网</font><聚全球焦点 精华资源入>门
 ##高清视频、电子书、软件、网站
 
 ####当前网址5 https://d3tbp1m3wpbm1g.cloudfront.net
