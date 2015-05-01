@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=ZYZG.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/ZYZG.jpg" /></a></td>
-    <td rowspan=2><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/WJ0.jpg" /></a></td>
+    <td rowspan=2><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/WJ.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=RTZQ.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/RTZQ.jpg" /></a></td>
