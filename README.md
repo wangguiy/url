@@ -2,6 +2,7 @@
 ##电影、音乐、绘画、书籍、软件、网站
 
 ####当前网址8 https://d1k1c1b6ecuqho.cloudfront.net
+####当前网址9 https://d1nflejuilwrpw.cloudfront.net
 
 <table>
   <tr>
