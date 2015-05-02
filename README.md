@@ -1,8 +1,7 @@
 #<font color=red>网</font><聚全球焦点 精华资源入>门
 ##电影、音乐、绘画、书籍、软件、网站
 
-####当前网址5 https://d3tbp1m3wpbm1g.cloudfront.net
-####当前网址7 https://d24f7j9dy26nto.cloudfront.net
+####当前网址8 https://d1k1c1b6ecuqho.cloudfront.net
 
 <table>
   <tr>
