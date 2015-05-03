@@ -13,7 +13,7 @@
     <td><a href="https://d1nflejuilwrpw.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=11" target="_blank"><img src="https://d1nflejuilwrpw.cloudfront.net/Up/DKC.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1nflejuilwrpw.cloudfront.net/ogUP.aspx?name=FZYX.mp4&count=11" target="_blank"><img src="https://d1nflejuilwrpw.cloudfront.net/Up/FZYX.jpg" /></a></td>
+    <td><a href="https://d1nflejuilwrpw.cloudfront.net/ogUP.aspx?name=FZYX.mp4" target="_blank"><img src="https://d1nflejuilwrpw.cloudfront.net/Up/FZYX.jpg" /></a></td>
     <td rowspan=2><a href="https://d1nflejuilwrpw.cloudfront.net/ogUP.aspx?name=BYWXY.mp4" target="_blank"><img src="https://d1nflejuilwrpw.cloudfront.net/Up/BYWXY.jpg" /></a></td>
   </tr>
 </table>
