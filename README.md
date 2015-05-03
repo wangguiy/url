@@ -1,4 +1,4 @@
-###<font color=red>网</font><聚全球焦点 精华资源入>门
+####网<聚全球焦点 精华资源入>门
 ####电影 音乐 绘画 书籍 软件 网站
 
 #####当前网址9 https://d1nflejuilwrpw.cloudfront.net
