@@ -3,6 +3,7 @@
 
 #####当前网址9 https://d1nflejuilwrpw.cloudfront.net
 #####当前网址10 https://d2j7yihfkrw4ej.cloudfront.net
+#####当前网址11 https://d1o6c6v778d55r.cloudfront.net
 
 <table>
   <tr>
