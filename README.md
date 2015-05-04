@@ -1,7 +1,8 @@
 ####网<聚全球焦点 精华资源入>门
 ####电影 音乐 绘画 书籍 软件 网站
-#####当前网址11 https://d1o6c6v778d55r.cloudfront.net
-#####当前网址12 https://d1km418ne7b7i0.cloudfront.net
+#####当前网址 https://d2c3m1siuevxxi.cloudfront.net
+#####当前网址 https://d3ci4kqt72ip3l.cloudfront.net
+#####当前网址 https://d359a6hnuz8944.cloudfront.net
 
 <table>
   <tr>
