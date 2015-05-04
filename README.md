@@ -6,14 +6,14 @@
 
 <table>
   <tr>
-    <td><a href="https://d1o6c6v778d55r.cloudfront.net/ogUP.aspx?name=ZYZG.mp4" target="_blank"><img src="https://d1o6c6v778d55r.cloudfront.net/Up/ZYZG.jpg" /></a></td>
-    <td rowspan=2><a href="https://d1o6c6v778d55r.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d1o6c6v778d55r.cloudfront.net/Up/WJ.jpg" /></a></td>
+    <td><a href="https://d2c3m1siuevxxi.cloudfront.net/ogUP.aspx?name=ZYZG.mp4" target="_blank"><img src="https://d2c3m1siuevxxi.cloudfront.net/Up/ZYZG.jpg" /></a></td>
+    <td rowspan=2><a href="https://d2c3m1siuevxxi.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d2c3m1siuevxxi.cloudfront.net/Up/WJ.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1o6c6v778d55r.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=11" target="_blank"><img src="https://d1o6c6v778d55r.cloudfront.net/Up/DKC.jpg" /></a></td>
+    <td><a href="https://d2c3m1siuevxxi.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=11" target="_blank"><img src="https://d2c3m1siuevxxi.cloudfront.net/Up/DKC.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1o6c6v778d55r.cloudfront.net/ogUP.aspx?name=FZYX.mp4" target="_blank"><img src="https://d1o6c6v778d55r.cloudfront.net/Up/FZYX.jpg" /></a></td>
-    <td rowspan=2><a href="https://d1o6c6v778d55r.cloudfront.net/ogUP.aspx?name=BYWXY.mp4" target="_blank"><img src="https://d1o6c6v778d55r.cloudfront.net/Up/BYWXY.jpg" /></a></td>
+    <td><a href="https://d2c3m1siuevxxi.cloudfront.net/ogUP.aspx?name=FZYX.mp4" target="_blank"><img src="https://d2c3m1siuevxxi.cloudfront.net/Up/FZYX.jpg" /></a></td>
+    <td rowspan=2><a href="https://d2c3m1siuevxxi.cloudfront.net/ogUP.aspx?name=BYWXY.mp4" target="_blank"><img src="https://d2c3m1siuevxxi.cloudfront.net/Up/BYWXY.jpg" /></a></td>
   </tr>
 </table>
