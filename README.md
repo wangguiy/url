@@ -1,8 +1,6 @@
-####网<聚全球焦点 精华资源入>门
-####电影 音乐 绘画 书籍 软件 网站
+##网门
+####网聚全球焦点 精华资源入门
 #####固定网址 https://git.io/vJvcW （本页面，请收藏）
-#####动态网址 https://d3ci4kqt72ip3l.cloudfront.net
-#####动态网址 https://d359a6hnuz8944.cloudfront.net
 #####动态网址 https://d1btcgl9vpvunq.cloudfront.net
 
 <table>
