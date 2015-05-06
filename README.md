@@ -2,6 +2,7 @@
 ####网聚全球焦点 精华资源入门
 #####固定网址 https://git.io/vJvcW （本页面，请收藏）
 #####动态网址 https://d1btcgl9vpvunq.cloudfront.net
+#####动态网址 https://d234gsxe66qk0t.cloudfront.net
 
 <table>
   <tr>
