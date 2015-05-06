@@ -18,6 +18,6 @@
   </tr>
   <tr>
     <td><a href="https://d1btcgl9vpvunq.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=4" target="_blank"><img src="https://d1btcgl9vpvunq.cloudfront.net/Up/XTFY.jpg" /></a></td>
-    <td><a href="https://d1btcgl9vpvunq.cloudfront.net/ogUP.aspx?name=JQR.mp4" target="_blank"><img src="https://d1btcgl9vpvunq.cloudfront.net/Up/JQR.jpg" /></a></td>
+    <td><a href="https://d1btcgl9vpvunq.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d1btcgl9vpvunq.cloudfront.net/Up/JQR.jpg" /></a></td>
   </tr>
 </table>
