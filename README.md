@@ -6,8 +6,8 @@
 #####动态网址 https://d1btcgl9vpvunq.cloudfront.net
 <table>
   <tr>
-    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=BYWXY.mp4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/BYWXY.jpg" /></a></td>
     <td rowspan=2><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/WJ.jpg" width=240 height=290/></a></td>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=BYWXY.mp4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/BYWXY.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=FZYX.mp4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/FZYX.jpg" /></a></td>
@@ -17,8 +17,8 @@
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:11,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/LRWS.jpg" /></a></td>
   </tr>
   <tr>
-    <td rowspan=2><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/JP.jpg" width=240 height=290/></a></td>
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/JQR.jpg" /></a></td>
+    <td rowspan=2><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/JP.jpg" width=240 height=290/></a></td>
   </tr>
   <tr>
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/XTFY.jpg" /></a></td>
@@ -35,5 +35,3 @@
 ##动态网·时事新闻
 #####畅通获资讯 清醒看世界
 #####动态网址 http://tz.wrpd.me/jw/0
-#####动态网址 http://3fe.mspo.com/0
-#####动态网址 http://tt4.fbtextor.nu/99
