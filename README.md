@@ -4,11 +4,6 @@
 #####动态网址 https://d1rbaaueutiice.cloudfront.net
 #####动态网址 https://d234gsxe66qk0t.cloudfront.net
 #####动态网址 https://d1btcgl9vpvunq.cloudfront.net
-##动态网·新闻
-#####清醒看世界 畅通互联网
-#####动态网址 http://tz.wrpd.me/jw/0
-#####动态网址 http://3fe.mspo.com/0
-#####动态网址 http://tt4.fbtextor.nu/99
 <table>
   <tr>
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=11" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/DKC.jpg" /></a></td>
@@ -28,3 +23,8 @@
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:10,04:52&current=05:10" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SDJ.jpg" width=240 height=65/></a></td>
   </tr>
 </table>
+##动态网·新闻
+#####清醒看世界 畅通互联网
+#####动态网址 http://tz.wrpd.me/jw/0
+#####动态网址 http://3fe.mspo.com/0
+#####动态网址 http://tt4.fbtextor.nu/99
