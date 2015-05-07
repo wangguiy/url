@@ -22,6 +22,10 @@
   <tr>
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:10,04:52&current=05:10" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SDJ.jpg" width=240 height=65/></a></td>
   </tr>
+  <tr>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=WJZM.mp4&count=4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/WJZM.jpg" /></a></td>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/XTFY.jpg" /></a></td>
+  </tr>
 </table>
 ##动态网·时事新闻
 #####畅通获资讯 清醒看世界
