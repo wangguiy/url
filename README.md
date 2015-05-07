@@ -1,9 +1,11 @@
 #####固定网址 https://git.io/vJvcW （本页面，请收藏）
-##网门·高清视频
+##网门·视频
+#####网聚全球焦点 精华资源入门
 #####动态网址 https://d1rbaaueutiice.cloudfront.net
 #####动态网址 https://d234gsxe66qk0t.cloudfront.net
 #####动态网址 https://d1btcgl9vpvunq.cloudfront.net
 ##动态网·新闻
+#####清醒看世界 畅通互联网
 #####动态网址 http://tz.wrpd.me/jw/0
 #####动态网址 http://3fe.mspo.com/0
 #####动态网址 http://tt4.fbtextor.nu/99
