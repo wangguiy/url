@@ -1,10 +1,10 @@
-##网门
-####网聚全球焦点 精华资源入门
 #####固定网址 https://git.io/vJvcW （本页面，请收藏）
+##网门·高清视频
 #####动态网址 https://d1rbaaueutiice.cloudfront.net
 #####动态网址 https://d234gsxe66qk0t.cloudfront.net
 #####动态网址 https://d1btcgl9vpvunq.cloudfront.net
-##自由门
+##动态网·新闻
+#####动态网址 http://tz.wrpd.me/jw/0
 #####动态网址 http://3fe.mspo.com/0
 #####动态网址 http://tt4.fbtextor.nu/99
 <table>
