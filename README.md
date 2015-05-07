@@ -24,7 +24,7 @@
   </tr>
 </table>
 ##动态网·时事新闻
-#####清醒看世界 畅通互联网
+#####畅通获资讯 清醒看世界
 #####动态网址 http://tz.wrpd.me/jw/0
 #####动态网址 http://3fe.mspo.com/0
 #####动态网址 http://tt4.fbtextor.nu/99
