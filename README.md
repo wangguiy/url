@@ -18,7 +18,7 @@
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/JQR.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:3,04:20&current=05:3" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SZG.jpg" width=240 height=65/></a></td>
-    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:8,04:52&current=05:8" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SDJ.jpg" width=240 height=65/></a></td>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:4,04:20&current=05:4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SZG.jpg" width=240 height=65/></a></td>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:10,04:52&current=05:10" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SDJ.jpg" width=240 height=65/></a></td>
 	</tr>
 </table>
