@@ -1,9 +1,8 @@
 #####固定网址 https://git.io/vJvcW （本页面，请收藏）
 ##网门·高清视频
 #####网聚全球焦点 精华资源入门
+#####动态网址 https://d2prg6x4b3sldc.cloudfront.net
 #####动态网址 https://d1rbaaueutiice.cloudfront.net
-#####动态网址 https://d234gsxe66qk0t.cloudfront.net
-#####动态网址 https://d1btcgl9vpvunq.cloudfront.net
 <table>
   <tr>
     <td rowspan=2><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/WJ.jpg" width=240 height=290/></a></td>
