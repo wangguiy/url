@@ -1,5 +1,5 @@
 #####固定网址 https://git.io/vJvcW （本页面，请收藏）
-##网门·视频
+##网门·高清视频
 #####网聚全球焦点 精华资源入门
 #####动态网址 https://d1rbaaueutiice.cloudfront.net
 #####动态网址 https://d234gsxe66qk0t.cloudfront.net
@@ -23,7 +23,7 @@
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:10,04:52&current=05:10" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/4SDJ.jpg" width=240 height=65/></a></td>
   </tr>
 </table>
-##动态网·新闻
+##动态网·时事新闻
 #####清醒看世界 畅通互联网
 #####动态网址 http://tz.wrpd.me/jw/0
 #####动态网址 http://3fe.mspo.com/0
