@@ -46,13 +46,12 @@
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=MTDWH.mp4&count=28" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/MTDWH.jpg" /></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=ZSJ.mp4&count=16" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/ZSJ.jpg" /></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/STZT.jpg" /></a></td>
-	</tr>
-  <tr height="20"></tr>
+  </tr>
   <tr>
-    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=05:5&current=05:5" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SQQ.jpg" width=240 height=65/></a></td>
-    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=05:7&current=05:7" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SHQ.jpg" width=240 height=65/></a></td>
-    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:4,04:20&current=05:4" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SZG.jpg" width=240 height=65/></a></td>
-    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:12,04:52&current=05:12" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SDJ.jpg" width=240 height=65/></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=05:5&current=05:5" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SQQ0.jpg" /></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=05:7&current=05:7" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SHQ0.jpg" /></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:4,04:20&current=05:4" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SZG0.jpg" /></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:12,04:52&current=05:12" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
 	</tr>
   <tr height="30"></tr>
 	<tr>
