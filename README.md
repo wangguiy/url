@@ -1,11 +1,12 @@
-###网门·网聚全球焦点 精华资源入门
-#####永久网址 https://git.io/vJvcW （本页面，请收藏）
-#####动态网址 https://d1s8jmadc96ydp.cloudfront.net
-#####动态网址 https://d2prg6x4b3sldc.cloudfront.net
-#####动态网址 https://d1rbaaueutiice.cloudfront.net
 <table>
+  <tr>
+    <td><a href="https://git.io/vJvcW" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYYJ.jpg" /></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYDT1.jpg" /></a></td>
+    <td><a href="https://d2prg6x4b3sldc.cloudfront.net" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYDT2.jpg" /></a></td>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYDT3.jpg" /></a></td>
+  </tr>
   <tr height="20"></tr>
-	<tr>
+  <tr>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=FG.zip" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/FG.jpg" /></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=FGA.apk" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/FGA.jpg" /></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=U.zip" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/U.jpg" /></a></td>
