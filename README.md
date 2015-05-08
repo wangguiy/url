@@ -1,5 +1,5 @@
 #####网门·网聚全球焦点 精华资源入门
-#####固定网址 https://git.io/vJvcW （本页面，请收藏）
+#####永久网址 https://git.io/vJvcW （本页面，请收藏）
 #####动态网址 https://d1s8jmadc96ydp.cloudfront.net
 #####动态网址 https://d2prg6x4b3sldc.cloudfront.net
 #####动态网址 https://d1rbaaueutiice.cloudfront.net
@@ -19,7 +19,7 @@
 	</tr>
 	<tr>
     <td><a href="http://tz.wrpd.me/jw/0" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/0DTW.jpg"/></a></td>
-    <td><a href="https://github.com/ogate/url/blob/master/README.md" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYZX.jpg"/></a></td>
+    <td><a href="https://github.com/ogate/url/blob/master/README.md" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYSC.jpg"/></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DY.jpg"/></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/ST.jpg"/></a></td>
 	</tr>
