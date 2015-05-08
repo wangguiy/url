@@ -12,7 +12,7 @@
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=FZYX.mp4" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/FZYX.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=11" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/DKC.jpg" /></a></td>
+    <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=12" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/DKC.jpg" /></a></td>
     <td><a href="https://d1rbaaueutiice.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:11,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29" target="_blank"><img src="https://d1rbaaueutiice.cloudfront.net/Up/LRWS.jpg" /></a></td>
   </tr>
   <tr>
