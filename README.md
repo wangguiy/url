@@ -21,7 +21,7 @@
     <td><a href="https://d189wbvkxdhu8.cloudfront.net/acenter/" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/0TDW.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="http://tz.wrpd.me/jw/0" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="http://11f.australiancollege.com.au/0" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://github.com/ogate/url/blob/master/README.md" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DYSC.jpg"/></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/DY.jpg"/></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/ST.jpg"/></a></td>
