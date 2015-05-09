@@ -60,7 +60,7 @@
   <tr>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=3MSTT.mp4&count=17" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/3MSTT.jpg" /></a></td>
     <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=3LXTX.mp4&count=9" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/3LXTX.jpg" /></a></td>
-    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=WJZM.mp4&count=5" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/WJZM.jpg" /></a></td>
-    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=5" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/XTFY.jpg" /></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=WJZM.mp4&count=6" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/WJZM.jpg" /></a></td>
+    <td><a href="https://d1s8jmadc96ydp.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=6" target="_blank"><img src="https://d1s8jmadc96ydp.cloudfront.net/Up/XTFY.jpg" /></a></td>
   </tr>
 </table>
