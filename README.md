@@ -1,8 +1,8 @@
 <table>
   <tr height="1"></tr>
   <tr>
-    <td><a href="https://git.io/vJvcW" target="_blank"><img src="https://d1fkkgn0boo3on.cloudfront.net/Up/DYYJ.jpg" /></a></td>
-    <td><a href="https://d1fkkgn0boo3on.cloudfront.net" target="_blank"><img src="https://d1fkkgn0boo3on.cloudfront.net/Up/DYDT1.jpg" /></a></td>
+    <td><a href="https://d1fkkgn0boo3on.cloudfront.net" target="_blank"><img src="https://d1fkkgn0boo3on.cloudfront.net/Up/0WMDT0.jpg" /></a></td>
+    <td><a href="https://d1fkkgn0boo3on.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d1fkkgn0boo3on.cloudfront.net/Up/0WZTT0.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="http://11f.australiancollege.com.au/0" target="_blank"><img src="https://d1fkkgn0boo3on.cloudfront.net/Up/0DTW.jpg"/></a></td>
