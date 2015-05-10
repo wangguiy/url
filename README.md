@@ -1,3 +1,6 @@
+#####动态网址 http://dzuus9wg6bhle.cloudfront.net
+#####动态网址 http://d1fkkgn0boo3on.cloudfront.net
+#####动态网址 http://d2prg6x4b3sldc.cloudfront.net
 <table>
   <tr height="1"></tr>
   <tr>
