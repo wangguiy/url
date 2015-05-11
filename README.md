@@ -30,7 +30,7 @@
     <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=MTDWH.mp4&count=28" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/MTDWH.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:5,04:20&current=05:5" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/4SZG0.jpg" /></a></td>
+    <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:6,04:20&current=05:6" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/4SZG0.jpg" /></a></td>
     <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:16,04:52&current=05:16" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
   </tr>
   <tr>
