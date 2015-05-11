@@ -1,7 +1,4 @@
-#####永久网址 https://git.io/vJvcW （请收藏）
-#####动态网址 http://d1edyzn5utrkbr.cloudfront.net
-#####动态网址 http://dzuus9wg6bhle.cloudfront.net
-#####动态网址 http://d2prg6x4b3sldc.cloudfront.net
+#####动态网址 http://d246j53n81xfdd.cloudfront.net
 <table>
   <tr height="1"></tr>
   <tr>
