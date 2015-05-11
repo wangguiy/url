@@ -13,10 +13,10 @@
   </tr>
   <tr>
     <td rowspan=2><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/WJ.jpg" /></a></td>
-    <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=12" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/DKC.jpg" /></a></td> 
+    <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=13" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/DKC.jpg" /></a></td> 
   </tr>
   <tr>
-    <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:11,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/LRWS.jpg" /></a></td>
+    <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:12,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/LRWS.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d1edyzn5utrkbr.cloudfront.net/ogUP.aspx?name=WJZM.mp4&count=8" target="_blank"><img src="https://d1edyzn5utrkbr.cloudfront.net/Up/WJZM.jpg" /></a></td>
