@@ -9,7 +9,7 @@
     <td><a href="https://d1c3kqcaoadlok.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d1c3kqcaoadlok.cloudfront.net/Up/0WZTT0.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="http://x3t.muna.org/99" target="_blank"><img src="https://d1c3kqcaoadlok.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://duaitqxt4nl89.cloudfront.net/99" target="_blank"><img src="https://d1c3kqcaoadlok.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://d1c3kqcaoadlok.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1c3kqcaoadlok.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
   <tr>
