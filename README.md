@@ -1,5 +1,5 @@
 ####网门·网聚全球焦点 精华资源入门
-#####固定网址 https://git.io/vJvcW（请收藏）
+#####固定网址 https://git.io/vJvcW （请收藏）
 #####动态网址 http://dh707iv75qexj.cloudfront.net
 #####动态网址 http://d1c3kqcaoadlok.cloudfront.net
 <table>
