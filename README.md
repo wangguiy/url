@@ -1,6 +1,8 @@
 <table>
   <tr>
-    <td width=385 align=center>网门  <网聚全球焦点 精华资源入门><br>固定网址 https://git.io/vJvcW （请收藏）</td>
+    <td width=384 align=center>网门 <网 聚 全 球 焦 点　精 华 资 源 入 门>
+    <br>固定网址 https://git.io/vJvcW （请收藏）
+    <br>动态网址 https://d2iacfewj0lpuk.cloudfront.net</td>
     <td><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMEW.jpg" /></td>
   </tr>
 </table>
