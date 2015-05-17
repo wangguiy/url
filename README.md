@@ -1,5 +1,6 @@
 ####网门·网聚全球焦点 精华资源入门
 #####固定网址 https://git.io/vJvcW （请收藏）</td>
+<img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMEW.jpg" />
 <table>
   <tr>
     <td><a href="https://d2iacfewj0lpuk.cloudfront.net" target="_blank"><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMDT.jpg" /></a></td>
@@ -39,5 +40,4 @@
     <td><a href="https://d2iacfewj0lpuk.cloudfront.net/ogUP.aspx?name=U.zip" target="_blank"><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/U.jpg" /></a></td>
     <td><a href="https://d2iacfewj0lpuk.cloudfront.net/ogUP.aspx?name=UA.apk" target="_blank"><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/UA.jpg" /></a></td>
   </tr>
-  <tr><td colspan=2 align=center><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMEW.jpg" /></td></tr>
 </table>
