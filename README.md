@@ -1,7 +1,7 @@
 ####网门·网聚全球焦点 精华资源入门
-#####固定网址 https://git.io/vJvcW （请收藏）
 <table>
-  <tr height="1"></tr>
+  <tr><td colspan=2 align=center>固定网址 https://git.io/vJvcW （请收藏）</br>
+<img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMEW.jpg" /></td></tr>
   <tr>
     <td><a href="https://d2iacfewj0lpuk.cloudfront.net" target="_blank"><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMDT.jpg" /></a></td>
     <td><a href="https://d2iacfewj0lpuk.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WZTT.jpg" /></a></td>
