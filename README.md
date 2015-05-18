@@ -1,19 +1,17 @@
 <table>
   <tr></tr>
   <tr>
-    <td align=center><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/oGate.jpg" /></td>
+    <td align=center><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/oGate.jpg" />
+      <br><br>https://git.io/vJvcW 请收藏</td>
     <td align=center><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMEW.jpg" /></td>
-  </tr>
-  <tr>
-    <td colspan=2 align=left><li>网门固定网址 https://git.io/vJvcW （请收藏本页）
-      <li>网门动态网址 https://d1rrwzt27u3b8s.cloudfront.net
-      <li>网门动态网址 https://dvlkyogqbetr1.cloudfront.net
-      <li>网门动态网址 https://d3tfplc1ue1thf.cloudfront.net
-    </td>
   </tr>
   <tr>
     <td><a href="https://d1rrwzt27u3b8s.cloudfront.net" target="_blank"><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMDT.jpg" /></a></td>
     <td><a href="https://d1rrwzt27u3b8s.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://dvlkyogqbetr1.cloudfront.net" target="_blank"><img src="https://dvlkyogqbetr1.cloudfront.net/Up/0WMDT2.jpg" /></a></td>
+    <td><a href="https://d3tfplc1ue1thf.cloudfront.net" target="_blank"><img src="https://d3tfplc1ue1thf.cloudfront.net/Up/0WMDT3.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d1rrwzt27u3b8s.cloudfront.net/onUP.aspx?name=https://d29duwb7un2osd.cloudfront.net/518" target="_blank"><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0DTW.jpg"/></a></td>
