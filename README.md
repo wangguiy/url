@@ -1,12 +1,16 @@
-<img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/oGate.jpg" /> 网门
-<br><br>固定网址 https://git.io/vJvcW （请收藏）
-<br>动态网址 https://d1rrwzt27u3b8s.cloudfront.net
-<br>动态网址 https://d19zlk7jvh5eho.cloudfront.net
-<br>动态网址 https://dvlkyogqbetr1.cloudfront.net
-<br>动态网址 https://d3tfplc1ue1thf.cloudfront.net
-<br><br><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMEW.jpg" />
 <table>
+  <tr></tr>
   <tr>
+    <td align=center><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/oGate.jpg" /></td>
+    <td align=center><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMEW.jpg" /></td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center>固定网址 https://git.io/vJvcW （请收藏）
+      <br>动态网址 https://d1rrwzt27u3b8s.cloudfront.net
+      <br>动态网址 https://d19zlk7jvh5eho.cloudfront.net
+      <br>动态网址 https://dvlkyogqbetr1.cloudfront.net
+      <br>动态网址 https://d3tfplc1ue1thf.cloudfront.net
+    </td>
   </tr>
   <tr>
     <td><a href="https://d1rrwzt27u3b8s.cloudfront.net" target="_blank"><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMDT.jpg" /></a></td>
