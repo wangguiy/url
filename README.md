@@ -5,7 +5,7 @@
     <td align=center><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMEW.jpg" /></td>
   </tr>
   <tr>
-    <td colspan=2 align=center>固定网址 https://git.io/vJvcW （请收藏）
+    <td colspan=2 align=center>网门固定网址 https://git.io/vJvcW （请收藏）
       <br>动态网址 https://d1rrwzt27u3b8s.cloudfront.net
       <br>动态网址 https://d19zlk7jvh5eho.cloudfront.net
       <br>动态网址 https://dvlkyogqbetr1.cloudfront.net
