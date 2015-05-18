@@ -6,10 +6,10 @@
   </tr>
   <tr>
     <td colspan=2 align=center>网门固定网址 https://git.io/vJvcW （请收藏）
-      <br>动态网址 https://d1rrwzt27u3b8s.cloudfront.net
-      <br>动态网址 https://d19zlk7jvh5eho.cloudfront.net
-      <br>动态网址 https://dvlkyogqbetr1.cloudfront.net
-      <br>动态网址 https://d3tfplc1ue1thf.cloudfront.net
+      <br>网门动态网址 https://d1rrwzt27u3b8s.cloudfront.net
+      <br>网门动态网址 https://d19zlk7jvh5eho.cloudfront.net
+      <br>网门动态网址 https://dvlkyogqbetr1.cloudfront.net
+      <br>网门动态网址 https://d3tfplc1ue1thf.cloudfront.net
     </td>
   </tr>
   <tr>
