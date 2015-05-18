@@ -1,16 +1,19 @@
+<img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/oGate.jpg" /> 网门
+
+固定网址 https://git.io/vJvcW （请收藏）
+
+动态网址 https://d1rrwzt27u3b8s.cloudfront.net
+
+动态网址 https://d19zlk7jvh5eho.cloudfront.net
+
+动态网址 https://dvlkyogqbetr1.cloudfront.net
+
+动态网址 https://d3tfplc1ue1thf.cloudfront.net
+
+<img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMEW.jpg" />
 <table>
   <tr>
-    <td width=384 align=center>网门 <网 聚 全 球 焦 点　精 华 资 源 入 门>
-    <br>固定网址 https://git.io/vJvcW （请收藏）
-    <br>动态网址 https://d1rrwzt27u3b8s.cloudfront.net
-    <br>动态网址 https://d19zlk7jvh5eho.cloudfront.net
-    <br>动态网址 https://dvlkyogqbetr1.cloudfront.net
-    <br>动态网址 https://d3tfplc1ue1thf.cloudfront.net</td>
-    <td><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMEW.jpg" /></td>
   </tr>
-</table>
-<table>
-  <tr height=1></tr>
   <tr>
     <td><a href="https://d1rrwzt27u3b8s.cloudfront.net" target="_blank"><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WMDT.jpg" /></a></td>
     <td><a href="https://d1rrwzt27u3b8s.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d1rrwzt27u3b8s.cloudfront.net/Up/0WZTT.jpg" /></a></td>
