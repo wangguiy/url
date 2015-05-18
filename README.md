@@ -2,7 +2,9 @@
   <tr>
     <td width=384 align=center>网门 <网 聚 全 球 焦 点　精 华 资 源 入 门><br>
     <br>固定网址 https://git.io/vJvcW （请收藏）
-    <br>动态网址 https://d19zlk7jvh5eho.cloudfront.net</td>
+    <br>动态网址 https://d19zlk7jvh5eho.cloudfront.net
+    <br>动态网址 https://dvlkyogqbetr1.cloudfront.net
+    <br>动态网址 https://d3tfplc1ue1thf.cloudfront.net</td>
     <td><img src="https://d2iacfewj0lpuk.cloudfront.net/Up/0WMEW0.jpg" /></td>
   </tr>
 </table>
