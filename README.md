@@ -10,7 +10,7 @@
     <td><a href="https://d2fiep7kifgmjq.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d2fiep7kifgmjq.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2fiep7kifgmjq.cloudfront.net/onUP.aspx?name=https://d29duwb7un2osd.cloudfront.net/518" target="_blank"><img src="https://d2fiep7kifgmjq.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://d2fiep7kifgmjq.cloudfront.net/onUP.aspx?name=https://d146mstxox9k4x.cloudfront.net/0" target="_blank"><img src="https://d2fiep7kifgmjq.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://d2fiep7kifgmjq.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d2fiep7kifgmjq.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
   <tr>
