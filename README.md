@@ -6,7 +6,7 @@
     <td align=center><img src="https://d1iqytsgwomxyk.cloudfront.net/Up/0WMEW.jpg" /></td>
   </tr>
   <tr>
-    <td><a href="https://d1iqytsgwomxyk.cloudfront.net/oNote.aspx?id=oGate" target="_blank"><img src="https://d1iqytsgwomxyk.cloudfront.net/Up/0WMDT.jpg" /></a></td>
+    <td><a href="https://d1iqytsgwomxyk.cloudfront.net" target="_blank"><img src="https://d1iqytsgwomxyk.cloudfront.net/Up/0WMDT.jpg" /></a></td>
     <td><a href="https://d1iqytsgwomxyk.cloudfront.net/oNote.aspx?id=oNote" target="_blank"><img src="https://d1iqytsgwomxyk.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
