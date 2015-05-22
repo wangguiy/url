@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><a href="https://dybyar74g2zjc.cloudfront.net" target="_blank"><img src="https://dybyar74g2zjc.cloudfront.net/Up/0WMDT.jpg" /></a></td>
-    <td><a href="https://dybyar74g2zjc.cloudfront.net/oNote.aspx" target="_blank"><img src="https://dybyar74g2zjc.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+    <td><a href="https://dybyar74g2zjc.cloudfront.net/oNote.aspx?id=oNote" target="_blank"><img src="https://dybyar74g2zjc.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://dybyar74g2zjc.cloudfront.net/onUP.aspx?name=https://dg41gqeunxma8.cloudfront.net/522" target="_blank"><img src="https://dybyar74g2zjc.cloudfront.net/Up/0DTW.jpg"/></a></td>
