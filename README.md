@@ -2,7 +2,7 @@
   <tr></tr>
   <tr>
     <td align=center><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/oGate.jpg" />
-      <br>https://git.io/vJvcW<br>固定网址请收藏</td>
+      <br>https://x.co/ogate<br>https://git.io/vJvcW<br>固定网址请收藏</td>
     <td align=center><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/0WMEW.jpg" /></td>
   </tr>
   <tr>
