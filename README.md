@@ -15,13 +15,13 @@
   </tr>
   <tr>
     <td rowspan=2><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/WJ.jpg" /></a></td>
-    <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=14" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/DKC.jpg" /></a></td> 
+    <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=15" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/DKC.jpg" /></a></td> 
   </tr>
   <tr>
     <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:12,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/LRWS.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=WJZM.mp4&count=29" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/WJZM.jpg" /></a></td>
+    <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=3MSTT.mp4&count=17" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/3MSTT.jpg" /></a></td>
     <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=24" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/XTFY.jpg" /></a></td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@
     <td rowspan=2><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/JP.jpg" /></td>
   </tr>
   <tr>
-    <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=MTDWH.mp4&count=28" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/MTDWH.jpg" /></a></td>
+    <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=CYKJ.mp4" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/CYKJ.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://da4wqjj5xtwp9.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:15,04:20&current=05:13" target="_blank"><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/4SZG0.jpg" /></a></td>
